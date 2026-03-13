@@ -14,6 +14,7 @@ Collection of C++ projects focused on visual simulations and performance-friendl
 - `atoms_md`: 2D molecular dynamics (Lennard-Jones) with temperature and density controls.
 - `file_indexer`: CLI file indexer + search tool.
 - `mini_shell`: Minimal Unix-like shell (built-ins + external commands).
+- `http_server`: Multi-threaded HTTP server with static files + basic routes.
 
 ## Utilities
 
