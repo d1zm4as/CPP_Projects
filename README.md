@@ -1,6 +1,6 @@
 # CPP_Projects
 
-Collection of C++ projects focused on visual simulations and performance-friendly physics.
+Collection of C++ projects.
 
 ## Stack (Linux)
 
