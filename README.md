@@ -15,6 +15,7 @@ Collection of C++ projects.
 - `file_indexer`: CLI file indexer + search tool.
 - `mini_shell`: Minimal Unix-like shell (built-ins + external commands).
 - `http_server`: Multi-threaded HTTP server with static files + basic routes.
+- `secure_vault_pm`: Secure file vault + local password manager using OpenSSL (AES-256-GCM + PBKDF2).
 
 ## Utilities
 
