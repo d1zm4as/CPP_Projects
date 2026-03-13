@@ -23,3 +23,11 @@ cmake --build .
 ```bash
 ./atoms_md
 ```
+
+## Controls
+
+- `H`: heat up (increase velocity)
+- `J`: cool down (decrease velocity)
+- `1/2`: fewer/more particles
+- `C`: toggle color by speed
+- `B`: toggle bonds

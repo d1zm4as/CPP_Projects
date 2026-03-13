@@ -11,6 +11,7 @@ Collection of C++ projects focused on visual simulations and performance-friendl
 ## Projects
 
 - `gravity_nbody`: 2D N-body gravity simulator with presets, trails, and parameter controls.
+- `atoms_md`: 2D molecular dynamics (Lennard-Jones) with temperature and density controls.
 
 ## Notes
 

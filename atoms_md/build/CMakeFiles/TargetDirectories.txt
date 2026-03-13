@@ -1,0 +1,3 @@
+/home/mine/Projetos/CPP_Projects/atoms_md/build/CMakeFiles/atoms_md.dir
+/home/mine/Projetos/CPP_Projects/atoms_md/build/CMakeFiles/edit_cache.dir
+/home/mine/Projetos/CPP_Projects/atoms_md/build/CMakeFiles/rebuild_cache.dir
